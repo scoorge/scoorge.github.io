@@ -284,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1487199355679</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Change base.html content">
+      <created>1487201729506</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1487201729506</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -315,7 +322,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Change about us content" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change about us content" />
+    <MESSAGE value="Change base.html content" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change base.html content" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
